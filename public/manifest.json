@@ -4,8 +4,8 @@
   "description": "Hi, this is Kyoungjun Han's landing page as a Full Stack Software Engineer.",
   "icons": [
     {
-      "src": "kyoungjun_icon.jpg",
-      "sizes": "192x192",
+      "src": "blue-yoshi-icon.png",
+      "sizes": "460x460",
       "type": "image/jpg"
     }
   ],
